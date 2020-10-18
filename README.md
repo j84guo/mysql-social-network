@@ -1,11 +1,13 @@
 # MySQL Social Network Database
 This is a social network database implemented using MySQL, with a Python3 API
 and command-line client.
+
 ![](cli_example.gif)
 
 ## MySQL schema
 The MySQL schema is normalized to Boyce-Codd Normal Form (BCNF) with the
 following entity-relation model:
+
 ![](erm.png)
 
 ### Sample data
@@ -35,6 +37,7 @@ connector for Python3. It supports the following features:
 ## Command-line client
 A simple client for interacting with the database, using the Python3 API, is
 provided in `run.py`.
+
 ![](cli_help.gif)
 
 ## Setup for usage and/or development
