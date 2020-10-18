@@ -35,7 +35,7 @@ connector for Python3. It supports the following features:
 ## Command-line client
 A simple client for interacting with the database, using the Python3 API, is
 provided in `run.py`.
-![](cli_help.png)
+![](cli_help.gif)
 
 ## Setup for usage and/or development
 ```Python
