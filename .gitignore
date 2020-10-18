@@ -1,0 +1,10 @@
+.idea/
+venv/
+__pycache__/
+twitter_data/twitter_statuses.json
+twitter_data/twitter_statuses.json.gz
+twitter_data/twitter_follows.txt
+PROJECT.md
+presentation.txt
+erm.pdf
+erm.docx
